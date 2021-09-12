@@ -658,7 +658,7 @@ img {
 
 .intro {
     min-height: 100vh;
-    background: url(../image/Intro_bg.jpg) no-repeat center;
+    background: url(../images/Intro_bg.jpg) no-repeat center;
     background-size: cover;
     padding-top: 263px;
     padding-bottom: 223px;
@@ -689,7 +689,7 @@ img {
 .search-form_field {
     width: 297px;
     background-color: transparent;
-    background: url(../image/svg/circle-icon.svg) no-repeat left 6px;
+    background: url(../images/svg/circle-icon.svg) no-repeat left 6px;
     background-size: 20px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;
@@ -795,13 +795,13 @@ img {
     line-height: 24px;
     color: #006DFE;
     text-decoration: none;
-    background: url(../image/svg/arrow-right-icon.svg) no-repeat 95% center;
+    background: url(../images/svg/arrow-right-icon.svg) no-repeat 95% center;
     transition: .2s all;
 }
 
 .benefits_card-more:hover,
 .benefits_card-more:focus {
-    background: url(../image/svg/arrow-right-icon.svg) no-repeat right center;
+    background: url(../images/svg/arrow-right-icon.svg) no-repeat right center;
 }
 
 
@@ -830,7 +830,7 @@ img {
     font-size: 16px;
     color: #006DFE;
     text-decoration: none;
-    background: url(../image/svg/arrow-right-icon.svg) no-repeat right center;
+    background: url(../images/svg/arrow-right-icon.svg) no-repeat right center;
     padding-right: 59px;
 }
 
@@ -947,7 +947,7 @@ img {
     font-size: 16px;
     color: #006DFE;
     text-decoration: none;
-    background: url(../image/svg/arrow-right-icon.svg) no-repeat right center;
+    background: url(../images/svg/arrow-right-icon.svg) no-repeat right center;
     padding-right: 59px;
 }
 
@@ -1013,7 +1013,7 @@ img {
     line-height: 24px;
     color: white;
     padding-right: 20px;
-    background: url(../image/svg/heart-icon.svg) no-repeat right;
+    background: url(../images/svg/heart-icon.svg) no-repeat right;
     margin-right: 14px;
 }
 
@@ -1022,7 +1022,7 @@ img {
     font-size: 16px;
     line-height: 24px;
     padding-right: 23px;
-    background: url(../image/svg/comment-icon.svg) no-repeat right;
+    background: url(../images/svg/comment-icon.svg) no-repeat right;
     color: white;
 }
 
