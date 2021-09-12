@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  --css-variable: #000;
+}
+
+.diva {
+  color: var(--css-variable);
+}
+/*# sourceMappingURL=styles.css.map */
